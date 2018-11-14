@@ -45,7 +45,7 @@ On the basis of this input and the trained model, our system was able to generat
 - CSC773: Advanced Topics in Internet Protocols
 
 <p align="center">
-<img alt="Results" src="https://github.com/rayandasoriya/CourseSelector/images/result.png">
+<img alt="Results" src="https://github.com/rayandasoriya/CourseSelector/blob/master/images/result.png">
 </p>
 
 ## Contributors
