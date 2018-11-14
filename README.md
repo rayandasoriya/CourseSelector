@@ -34,7 +34,7 @@ As an example, we have selected that the student gave 1/2 ratings to the followi
 - Subjects with Rating 1: 
 - Subjects with Rating 2:
 
-On the basis of this input and the trained model, our system was able to generate a list of 10 subjects which can be taken during the Graduate Studies. The subjects are:
+On the basis of this input and the trained model, our system was able to generate a list of 8 subjects which can be taken during the Graduate Studies. The subjects are:
 - CSC505: Design and Analysis of Algorithms
 - CSC520: Artificial Intelligence
 - CSC554: Human-Computer Interaction
