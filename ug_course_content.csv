@@ -1,0 +1,50 @@
+﻿Course_Code,Course_Subject,Database ,OS,AI,Data Science,Graphics,Networking,Developer,Security
+CSC_111 , Introduction to Computing: Python,1,1,2,3,0,0,4,1
+CSC_112 , Introduction to Computing: FORTRAN,1,1,2,3,0,0,4,1
+CSC_113 , Introduction to Computing: MATLAB ,1,1,2,3,0,0,4,1
+CSC_116 , Introduction to Computing- Java ,1,3,2,3,0,0,4,1
+CSC_200 , Introduction to Computers and Their Uses,2,2,2,2,2,2,2,2
+CSC_216 , Programming Concepts- Java ,1,3,2,3,0,0,4,1
+CSC_226 , Discrete Mathematics for Computer Scientists,1,1,1,2,2,1,2,2
+CSC_230 , C and Software Tools,1,3,2,3,0,0,4,1
+CSC_236 , Computer Organization and Assembly Language for Computer Scientists ,1,3,0,1,0,1,3,1
+CSC_246 , Concepts and Facilities of Operating Systems for Computer Scientists,2,5,0,0,0,1,3,2
+CSC_251 , Web Page Development,2,2,0,0,1,2,4,1
+CSC_255 , String Processing Languages,2,2,0,2,0,0,3,0
+CSC_281 , Foundations of Interactive Game Design,1,0,2,0,4,0,2,0
+CSC_302 , Introduction to Numerical Methods,2,2,0,2,0,1,1,0
+CSC_316 , Data Structures and Algorithms,2,3,2,2,0,0,3,1
+CSC_326 , Software Engineering,2,4,2,3,2,0,4,1
+CSC_333 , Automata-Grammars- and Computability,0,0,0,2,0,0,1,1
+CSC_342 , Applied Web-based Client-Server Computing,1,3,0,0,0,4,4,4
+CSC_379 , Ethics in Computing,4,4,4,4,1,4,4,4
+CSC_401 , Data and Computer Communications Networks,3,2,0,1,0,4,2,3
+CSC_402 , Networking Projects,2,2,0,0,0,5,2,4
+CSC_405 , Computer Security,2,3,1,0,0,4,1,5
+CSC_406 , Architecture Of Parallel Computers,3,3,0,0,0,5,2,4
+CSC_411 , Introduction to Artificial Intelligence,1,1,5,4,0,1,2,0
+CSC_412 , Compiler Construction,1,3,0,0,0,0,4,0
+CSC_422 , Automated Learning and Data Analysis,4,2,4,5,0,0,2,0
+CSC_427 , Introduction to Numerical Analysis I,2,3,3,3,0,0,0,0
+CSC_428 , Introduction to Numerical Analysis II,2,3,3,3,0,0,0,0
+CSC_431 , File Organization and Processing,4,2,0,0,0,3,1,4
+CSC_440 , Database Management Systems,5,1,1,3,1,1,1,1
+CSC_442 , Introduction to Data Science,4,1,3,5,0,2,2,0
+CSC_450 , Web Services,2,0,0,2,0,2,3,0
+CSC_453 , Software for Wireless Sensor Systems,1,1,0,0,0,5,4,2
+CSC_454 , Human Computer Interface,2,5,0,0,5,0,3,0
+CSC_455 , Social Computing,3,0,2,3,2,0,1,0
+CSC_456 , Computer Architecture and Multiprocessors,0,1,0,0,0,4,2,1
+CSC_461 , Computer Graphics,0,0,1,0,5,0,1,0
+CSC_462 , Advanced Computer Graphics Projects,0,0,1,0,5,0,1,0
+CSC_467 , Multimedia Technology,0,0,1,0,5,0,1,0
+CSC_474 , Network Security,1,1,0,0,0,5,1,5
+CSC_481 , Game Engine Foundations,0,0,4,2,5,0,2,0
+CSC_482 , Advanced Computer Game Projects,0,0,4,2,5,0,0,0
+CSC_484 , Building Game AI,2,0,5,2,4,0,2,0
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
